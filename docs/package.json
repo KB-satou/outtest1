@@ -1,0 +1,15 @@
+{
+  "name": "wasmyoyo1",
+  "type": "module",
+  "version": "0.1.0",
+  "files": [
+    "wasmyoyo1_bg.wasm",
+    "wasmyoyo1.js",
+    "wasmyoyo1.d.ts"
+  ],
+  "main": "wasmyoyo1.js",
+  "types": "wasmyoyo1.d.ts",
+  "sideEffects": [
+    "./snippets/*"
+  ]
+}
